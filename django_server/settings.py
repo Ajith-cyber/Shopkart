@@ -77,7 +77,7 @@ WSGI_APPLICATION = "django_server.wsgi.application"
 DATABASES = {
     "default": {
         "ENGINE": "django.db.backends.mysql",
-        "NAME": "app",
+        "NAME": "shopkart",
         "USER":"root",
         "PASSWORD":"root",
         "HOST":"localhost",
